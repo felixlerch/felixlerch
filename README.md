@@ -1,25 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on Integrations and APIs<br>👯 I’m looking to collaborate on some basic projects<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning CI/CD<br>💬 Ask me about databases, Java or everything you want
+<h1 align="center">💫 About Me:</h1>
+<p align="center">
+  My Name is Felix, I’m 22 years old and I work as a developer in Berlin.
+  </br>I’m currently working on Integrations, Automations and APIs.
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darksoul.felix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-lerch-darksoul) 
+<h2 align="center"> 🌐 Socials: </h2>
+<p align="center">
+  <a href="https://app.daily.dev/felixlerch"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&amp;logo=daily.dev&amp;logoColor=white" alt="daily.dev"></a>
+  <a href="https://instagram.com/darksoul.felix"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a> 
+  <a href="https://linkedin.com/in/felixlerch"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.salesforce.com/trailblazer/felixlerch"><img src="https://img.shields.io/badge/Salesforce-00D8FF?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce"></a>
+  <a href="https://steamcommunity.com/id/lizard_darksoul/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam"></a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felixlerch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felixlerch&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlerch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=felixlerch&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<h2 align="center"> 💻 Tech Stack: </h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,ts,js,nodejs,npm,prisma,cs,mysql,git,gitlab,github,heroku,postman,idea,webstorm,rider,vscode,windows,linux&theme=dark&perline=11" />
+  </a>
+</p>
+
+<h2 align="center"> 💻 Other Badges: </h2>
+
+<p align="center">
+  <a href="https://app.daily.dev/felixlerch"><img src="https://api.daily.dev/devcards/v2/6BnWvtQCXJtgJAvrkQEeX.png?type=wide&r=8wk" width="652" alt="Felix Lerch's Dev Card"/></a>
+</p>
+
+<h2 align="center"> 📊 Coding Stats: </h2>
+
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a35a67b-f78a-43d9-a8b4-f5ff3f4ca333/7c2b7941-8756-4cf1-b684-86c6a314b262.png" /></a>
+</p>
+
+<!--
+<h2 align="center"> 📊 GitHub Stats: </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felixlerch&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixlerch&amp;theme=tokyonight&amp;hide_border=true" alt=""><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlerch&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+</p>
+
+<h2 align="center"> 🏆 GitHub Trophies </h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=felixlerch&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt="">
+</p>
+-->
+
+<h2 align="center"> ✍️ Random Dev Quote </h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&amp;theme=tokyonight" alt="">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=felixlerch&icon=5&color=6)](https://visitcount.itsvg.in)
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
