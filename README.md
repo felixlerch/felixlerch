@@ -23,16 +23,16 @@
   </a>
 </p>
 
-<h2 align="center"> 💻 Other Badges: </h2>
-
-<p align="center">
-  <a href="https://app.daily.dev/felixlerch"><img src="https://api.daily.dev/devcards/v2/6BnWvtQCXJtgJAvrkQEeX.png?type=wide&r=8wk" width="652" alt="Felix Lerch's Dev Card"/></a>
-</p>
-
 <h2 align="center"> 📊 Coding Stats: </h2>
 
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a35a67b-f78a-43d9-a8b4-f5ff3f4ca333/7c2b7941-8756-4cf1-b684-86c6a314b262.png" /></a>
+</p>
+
+<h2 align="center"> 💻 Other Badges: </h2>
+
+<p align="center">
+  <a href="https://steamcommunity.com/id/lizard_darksoul/"><img src="https://steam-widget.com/widget/img?id=76561198120613721" width="350" height="75" /></a>
 </p>
 
 <!--
