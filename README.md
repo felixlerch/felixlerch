@@ -32,7 +32,7 @@
 <h2 align="center"> 💻 Other Badges: </h2>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/lizard_darksoul/"><img src="https://steam-widget.com/widget/img?id=lizard_darksoul&purpose=github_profile" width="350" height="75" /></a>
+  <a href="https://steamcommunity.com/id/lizard_darksoul/"><img src="https://steam-widget.com/widget/img?id=76561198120613721&gameList=TOP_GAMES_RECENT" width="350"></a>
 </p>
 
 <!--
