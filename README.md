@@ -1,6 +1,6 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">
-  My Name is Felix, I’m 23 years old and I work as a developer in Berlin.
+  My Name is Felix, I’m 24 years old and I work as a developer in Berlin.
   </br>I’m currently working on Integrations, Automations and APIs.
 </p>
 
